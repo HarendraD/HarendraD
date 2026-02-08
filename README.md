@@ -124,12 +124,14 @@ iOS Engineer • Full-Stack Mobile Developer • AI & ML Enthusiast
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harendrad&show_icons=true&theme=tokyonight" />
+  <!-- correct: user=HarendraD -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HarendraD&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harendrad&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarendraD&theme=tokyonight" />
 </p>
 
 ---
