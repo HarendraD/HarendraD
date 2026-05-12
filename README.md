@@ -19,7 +19,7 @@ iOS Engineer • AI & ML Enthusiast
 - 🧠 Studying **BSc (Hons) Data Science**
 - 🎯 Focused on scalable, production-ready mobile apps with clean architecture
 
-- 👨‍💻 Portfolio: **[harendrad.github.io/MyProfile](https://harendrad.github.io/MyProfile/)**
+- 👨‍💻 Portfolio: **[harendrad.github.io/MyProfile](https://harendrad.github.io/portfolio/)**
 - 📫 Email: **harendradilshan57@gmail.com**
 - 📞 Contact: **+94 763 895 857**
 
