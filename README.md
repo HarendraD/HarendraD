@@ -5,7 +5,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 </h1>
 
 <h3 align="center">
-iOS Engineer • Full-Stack Mobile Developer • AI & ML Enthusiast
+iOS Engineer • AI & ML Enthusiast
 </h3>
 
 ---
