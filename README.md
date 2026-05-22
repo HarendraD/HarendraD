@@ -16,7 +16,7 @@ iOS Engineer • AI & ML Enthusiast
 - 🤖 Actively building **AI & Machine Learning solutions** (Python, scikit-learn, NLP)
 - ☁️ Experienced with **Firebase (Realtime DB, Firestore, Auth, FCM)**
 - 📞 Built **real-time audio/video calling apps** using **Agora + CallKit**
-- 🧠 Studying **BSc (Hons) Data Science**
+- 🧠 Completed **BSc (Hons) Data Science**
 - 🎯 Focused on scalable, production-ready mobile apps with clean architecture
 
 - 👨‍💻 Portfolio: **[harendrad.github.io/MyProfile](https://harendrad.github.io/portfolio/)**
